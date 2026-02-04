@@ -5,7 +5,7 @@ A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaSc
 ## 🌐 Live Preview  
 
 Check the game online here:
-👉 [Let's play](https://mohdsohel-07.github.io/Rock-Paper-Scissors/)
+👉 [Let's play](https://mohdsoh3l.github.io/Rock-Paper-Scissors/)
  
 ## ✨ Features 
 
