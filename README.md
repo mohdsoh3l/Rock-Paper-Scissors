@@ -53,8 +53,8 @@ rock-paper-scissors/
 ## 👤 Author
 
 **Mohd Sohel**
-📧 Email: [zaiduroy@gmail.com](mailto:zaiduroy@gmail.com)
-🔗 GitHub: [mohdsohel-07](https://github.com/mohdsohel-07)
+📧 Email: [mohdsoh3l@gmail.com](mailto:mohdsoh3l@gmail.com)
+🔗 GitHub: [mohdsoh3l](https://github.com/mohdsoh3l)
 
 ---
 
